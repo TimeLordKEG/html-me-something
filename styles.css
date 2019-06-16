@@ -1,0 +1,111 @@
+body{
+  background-image: url("./images/Ocean.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+	
+h1{
+	color: darkslateblue;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+h2{
+	color: darkslateblue;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+}
+
+h3{
+	color: darkslateblue;
+	font-family: Verdana;
+	font-weight: bold;	
+	font-size: 20px;
+	text-align: center;
+}	
+
+h4{
+	color: darkslateblue;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+p{
+	color: darkslateblue;
+	font-family: Verdana;
+	font-size: 14px; 
+}
+
+li{
+	color: DarkViolet;
+	font-family: Verdana;
+	font-size: 16px;
+}
+
+dt{
+	color: Red;
+	text-align: left;
+	font-family: Verdana;
+	font-size: 14px;
+	padding-bottom: 5px;
+	margin-left: 490px;
+}
+
+.header{
+	text-align: center;
+}
+
+.about{
+	text-align: center;
+	font-weight: bold;
+	font-style: oblique;
+}	
+
+.message{
+	text-align: left;
+}
+
+p.a{
+	font-family: Allan;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: 75;
+	margin-left: 5px;
+}
+
+p.b{
+	color: Seagreen;
+	padding-top: 50px;
+}
+
+p.c{
+	color: Seagreen;
+}
+
+p.d{
+	font-size: 16px;
+}
+
+.puns{
+	text-align: left;
+	margin-right: 35px;
+}
+
+.camp{
+	text-align: center;
+	font-weight:80;
+}	
+
+.principles{
+	text-align: center;	
+}
+
+.moreinfo{
+	textalign: center;
+}	
+
